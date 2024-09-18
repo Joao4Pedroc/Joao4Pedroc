@@ -42,6 +42,8 @@ I'm João Pedro, web-developer.
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png" alt="Supabase" height="50"/><a/>
+<a href="https://firebase/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=62452&format=png" alt="Firebase" height="50"/><a/>
 </div>
 
 </td><td valign="top" width="33%">
