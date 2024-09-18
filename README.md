@@ -56,7 +56,7 @@ I'm João Pedro, web-developer.
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=novadrake76&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=joao4pedroc&show_icons=true&theme=tokyonight&locale=en&layout=compact"
     alt="novadrake76"
   />
   <img
