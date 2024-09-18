@@ -51,6 +51,8 @@ I'm João Pedro, web-developer.
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png" alt="Supabase" height="50"/><a/>
+<a href="https://firebase/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/398/821/png-transparent-firebase-google-google-i-o-icon-thumbnail.png" alt="Firebase" height="50"/><a/>
+
 </div>
 
 </td>
