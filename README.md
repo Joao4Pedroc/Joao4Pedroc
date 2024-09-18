@@ -41,28 +41,18 @@ I'm João Pedro, web-developer.
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
-
-<br />
 
 <p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=joao4pedroc&show_icons=true&theme=tokyonight&locale=en&layout=compact"
     alt="novadrake76"
-  />
-  <img
-    align="right"
-    src="https://static.wikia.nocookie.net/b__/images/2/2d/Bentype.gif/revision/latest/scale-to-width-down/270?cb=20220202005639&path-prefix=bloons"
-    height="200px"
   />
 </p>
 
